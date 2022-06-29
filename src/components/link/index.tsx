@@ -1,4 +1,4 @@
-import NextLink from 'next/Link'
+import NextLink from 'next/link'
 
 const Link = ({children, href,...props}: any) => {
     return(
