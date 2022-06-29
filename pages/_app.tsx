@@ -19,9 +19,6 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Footer/>
     </>
   )
-  
-  
-  
 }
 
 export default MyApp
